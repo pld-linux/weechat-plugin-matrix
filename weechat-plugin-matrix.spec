@@ -15,6 +15,7 @@ Requires:	python3 >= 1:3.6
 Requires:	python3-aiohttp
 Requires:	python3-atomicwrites
 Requires:	python3-attrs
+Requires:	python3-future
 Requires:	python3-logbook
 Requires:	python3-magic
 Requires:	python3-matrix-nio
